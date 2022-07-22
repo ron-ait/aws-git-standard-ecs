@@ -1,0 +1,6 @@
+[
+  {
+    "name": "rohit-docker-container",
+    "imageUri": "728738226157.dkr.ecr.us-east-1.amazonaws.com/rohit-docker:latest"
+  }
+]
